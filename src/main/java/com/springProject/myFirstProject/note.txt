@@ -1,0 +1,3 @@
+@component anotation ==> class ==> mathad ==> fild ==> interface
+           anotation is store inormatain
+           It will put it in the IOC container wherever it is
