@@ -1,3 +1,12 @@
 @component anotation ==> class ==> mathad ==> fild ==> interface
            anotation is store inormatain
            It will put it in the IOC container wherever it is
+
+Been is object
+
+
+@SpringBootApplication  alwas put in main
+    It does three things at once
+    @Cofiguration
+    @EnabalAotoConfiguration
+    @ComponentScan
